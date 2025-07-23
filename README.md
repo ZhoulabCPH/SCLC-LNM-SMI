@@ -8,6 +8,7 @@
 # Sofrware
 The R version is available on https://www.r-project.org/. 
 # Packages
+```markdown
 |Seurat package (v5.1.0)|	CRAN Repository|	https://cran.r-project.org/web/packages/Seurat/index.html
 |Harmony package (v1.0)|	CRAN Repository|	https://cran.r-project.org/web/packages/harmony/index.html
 |CellChat package (v1.6.1)|	Jin et al.|	https://github.com/jinworks/CellChat.git
