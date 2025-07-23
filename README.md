@@ -9,6 +9,12 @@
 The R version is available on https://www.r-project.org/. 
 # Packages
 ```markdown
+| 标题1 | 标题2 | 标题3 |
+
+|-------|-------|-------|
+
+| 内容1 | 内容2 | 内容3 |
+
 |Seurat package (v5.1.0)|CRAN Repository|https://cran.r-project.org/web/packages/Seurat/index.html
 |Harmony package (v1.0)|CRAN Repository|https://cran.r-project.org/web/packages/harmony/index.html
 |CellChat package (v1.6.1)|Jin et al.|https://github.com/jinworks/CellChat.git
@@ -21,8 +27,10 @@ The R version is available on https://www.r-project.org/.
 |Survival package. (v 3.4-0)|CRAN Repository|https://cran.r-project.org/web/packages/survival/index.html
 ```
 # Installation of R packages
+```markdown
 if(!require("Seurat"))
   install.packages("Seurat")
+```
 # Sample information
 We performed the CosMx SMI on 31 primary tumor samples without LNM, 42 primary tumor samples with LNM, and 32 LNMT samples.
 # Code implementation
