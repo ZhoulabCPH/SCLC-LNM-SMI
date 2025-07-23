@@ -22,22 +22,8 @@ The R version is available on https://www.r-project.org/.
 ```
 # Installation of R packages
 ```markdown
-if(!require("Seurat"))
-  install.packages("Seurat")
-if(!require("Harmony"))
-  install.packages("Harmony")
-if(!require("CellChat"))
-  install.packages("CellChat")
-if(!require("clusterProfiler"))
-  install.packages("clusterProfiler")
-if(!require("ClusterR"))
-  install.packages("ClusterR")
-if(!require("stats"))
-  install.packages("stats")
-if(!require("survminer"))
-  install.packages("survminer")
-if(!require("Survival"))
-  install.packages("Survival")
+if(!require("---"))
+  install.packages("---")
 ```
 # Sample information
 We performed the CosMx SMI on 31 primary tumor samples without LNM, 42 primary tumor samples with LNM, and 32 LNMT samples.
