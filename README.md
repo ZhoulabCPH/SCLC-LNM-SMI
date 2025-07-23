@@ -5,4 +5,8 @@
 
 ![image](https://github.com/ZhoulabCPH/SCLC-LNM-SMI/blob/master/cell_annotation/Figure1.png)
 
+
+The R version is available on https://www.r-project.org/. 
+
+
 ## Any question please contact zhoumeng@wmu.edu.cn
