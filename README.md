@@ -1,5 +1,3 @@
-## SCLC-LNM-SMI
-
 # Single-cell spatial transcriptomics analysis reveals tumor microenvironmental heterogeneity and cellular niches linked to lymph node metastasis and prognosis in small cell lung cancer
 
 
