@@ -3,7 +3,7 @@
 
 ![image](https://github.com/ZhoulabCPH/SCLC-LNM-SMI/blob/master/cell_annotation/Figure1.png)
 
-# Sofrware
+# Software
 The R version is available on https://www.r-project.org/. 
 # Packages and methods
 ```markdown
